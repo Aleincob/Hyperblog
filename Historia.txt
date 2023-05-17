@@ -1,5 +1,9 @@
 Esto es un texto de prueba
 para el curso de Platzi
 Git y Github
+
 Agregamos texto para que sean 
-5 lineas de codigo
+X lineas de codigo
+
+Este documento ira extendiendose más y más
+pd: estoy muy emocionado de etsar aprendiendo esto

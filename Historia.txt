@@ -2,8 +2,7 @@ Esto es un texto de prueba
 para el curso de Platzi
 Git y Github
 
-Agregamos texto para que sean 
-X lineas de codigo
+Agregaremos todas las lineas que sean necesarias
+para entender en plenitud este curso.
 
-Este documento ira extendiendose más y más
-pd: estoy muy emocionado de etsar aprendiendo estoaa
+Gracias :D
